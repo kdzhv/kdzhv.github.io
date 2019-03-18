@@ -474,6 +474,7 @@ template {
       line-height: 30px; } }
 
 .site-header__date--fix {
+  display: none;
   position: fixed; }
 
 .site-header__link {
