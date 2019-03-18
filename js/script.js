@@ -6,4 +6,4 @@ window.addEventListener('scroll', function() {
   alan.style.transform = 'scale(.80)';
   alan.style.visibility = 'hidden';
   content.style.opacity = '1';
-})
+});
